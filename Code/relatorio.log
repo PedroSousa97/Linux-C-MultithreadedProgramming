@@ -1,0 +1,200 @@
+Tempo	User	Evento
+2	1	[Prioridade Baixa] Chegou ao Hospital C
+2	1	[Prioridade Baixa] Entrou na fila do Hospital C 
+2	1	[Prioridade Baixa] Entrou no Hospital C 
+3	2	Chegou ao Hospital A
+3	2	Entrou na fila do Hospital A 
+3	2	Entrou no Hospital A 
+5	3	Chegou ao Hospital A
+5	3	Entrou na fila do Hospital A 
+5	3	Entrou no Hospital A 
+6	4	Chegou ao Hospital A
+6	4	Entrou na fila do Hospital A 
+6	4	Entrou no Hospital A 
+6	5	[Prioridade Baixa] Chegou ao Hospital C
+6	5	[Prioridade Baixa] Entrou na fila do Hospital C 
+6	5	[Prioridade Baixa] Entrou no Hospital C 
+7	6	Chegou ao Hospital A
+7	6	Entrou na fila do Hospital A 
+7	6	Entrou no Hospital A 
+7	7	Chegou ao Hospital B
+7	7	Entrou na fila do Hospital B 
+7	7	Entrou no Hospital B 
+8	8	Chegou ao Hospital A
+8	8	Entrou na fila do Hospital A 
+8	8	Entrou no Hospital A 
+8	-	Os pacientes do Hospital A estÃ£o a ser testados 
+9	9	Chegou ao Hospital A
+9	10	Chegou ao Hospital B
+9	10	Entrou na fila do Hospital B 
+9	10	Entrou no Hospital B 
+9	9	Entrou na fila do Hospital A 
+10	11	Chegou ao Hospital B
+10	12	[Prioridade Baixa] Chegou ao Hospital C
+10	12	[Prioridade Baixa] Entrou na fila do Hospital C 
+10	12	[Prioridade Baixa] Entrou no Hospital C 
+10	11	Entrou na fila do Hospital B 
+10	11	Entrou no Hospital B 
+12	13	Chegou ao Hospital A
+12	13	Entrou na fila do Hospital A 
+14	14	Chegou ao Hospital A
+14	14	Entrou na fila do Hospital A 
+14	15	[Prioridade Baixa] Chegou ao Hospital C
+14	15	[Prioridade Baixa] Entrou na fila do Hospital C 
+14	15	[Prioridade Baixa] Entrou no Hospital C 
+15	16	Chegou ao Hospital B
+15	16	Entrou na fila do Hospital B 
+15	16	Entrou no Hospital B 
+16	17	Chegou ao Hospital A
+16	17	Entrou na fila do Hospital A 
+16	18	[Prioridade Alta] Chegou ao Hospital C
+16	18	[Prioridade Alta] Entrou na fila do Hospital C 
+16	18	[Prioridade Alta] Entrou no Hospital C 
+16	-	Os pacientes do Hospital C estão a ser testados 
+17	19	Chegou ao Hospital B
+17	19	Entrou na fila do Hospital B 
+17	19	Entrou no Hospital B 
+17	-	Os pacientes do Hospital B estão a ser testados 
+18	-	Os pacientes do Hospital A foram testados 
+18	3	Saiu do Hospital A 
+18	2	Saiu do Hospital A 
+18	4	Saiu do Hospital A 
+18	6	Saiu do Hospital A 
+18	6	O paciente saiu do Hospital A 
+18	8	Saiu do Hospital A 
+18	13	Entrou no Hospital A 
+18	14	Entrou no Hospital A 
+18	17	Entrou no Hospital A 
+18	9	Entrou no Hospital A 
+20	3	O paciente saiu do Hospital A 
+21	2	O paciente saiu do Hospital A 
+21	22	Chegou ao Hospital A
+21	22	Entrou na fila do Hospital A 
+21	22	Entrou no Hospital A 
+21	-	Os pacientes do Hospital A estÃ£o a ser testados 
+22	4	O paciente saiu do Hospital A 
+22	8	O paciente saiu do Hospital A 
+24	23	Chegou ao Hospital A
+24	23	Entrou na fila do Hospital A 
+24	24	Chegou ao Hospital B
+24	24	Entrou na fila do Hospital B 
+25	25	Chegou ao Hospital A
+25	25	Entrou na fila do Hospital A 
+26	-	Os pacientes do Hospital C foram testados 
+26	1	[Prioridade Baixa] Saiu do Hospital C 
+26	5	[Prioridade Baixa] Saiu do Hospital C 
+26	5	O paciente de prioridade baixa saiu do Hospital C
+26	12	[Prioridade Baixa] Saiu do Hospital C 
+26	15	[Prioridade Baixa] Saiu do Hospital C 
+26	18	[Prioridade Alta] Saiu do Hospital C 
+27	1	O paciente de prioridade baixa saiu do Hospital C
+27	-	Os pacientes do Hospital B foram testados 
+27	7	Saiu do Hospital B 
+27	10	Saiu do Hospital B 
+27	11	Saiu do Hospital B 
+27	11	O paciente saiu do Hospital B
+27	16	Saiu do Hospital B 
+27	16	O paciente saiu do Hospital B
+27	19	Saiu do Hospital B 
+27	24	Entrou no Hospital B 
+27	26	Chegou ao Hospital A
+27	26	Entrou na fila do Hospital A 
+28	6	Positivo para COVID. Foi Internado 
+28	15	O paciente de prioridade baixa saiu do Hospital C
+28	18	O paciente de prioridade alta saiu do Hospital C
+28	7	O paciente saiu do Hospital B
+28	27	Chegou ao Hospital A
+28	27	Entrou na fila do Hospital A 
+29	12	O paciente de prioridade baixa saiu do Hospital C
+29	10	O paciente saiu do Hospital B
+29	28	Chegou ao Hospital A
+29	28	Entrou na fila do Hospital A 
+29	29	[Prioridade Alta] Chegou ao Hospital C
+29	29	[Prioridade Alta] Entrou na fila do Hospital C 
+29	29	[Prioridade Alta] Entrou no Hospital C 
+30	3	Positivo para COVID. Foi Internado 
+31	2	Positivo para COVID. Foi Internado 
+31	19	O paciente saiu do Hospital B
+31	-	Os pacientes do Hospital A foram testados 
+31	14	Saiu do Hospital A 
+31	13	Saiu do Hospital A 
+31	13	O paciente saiu do Hospital A 
+31	17	Saiu do Hospital A 
+31	22	Saiu do Hospital A 
+31	22	O paciente saiu do Hospital A 
+31	9	Saiu do Hospital A 
+31	23	Entrou no Hospital A 
+31	25	Entrou no Hospital A 
+31	26	Entrou no Hospital A 
+31	28	Entrou no Hospital A 
+31	27	Entrou no Hospital A 
+31	-	Os pacientes do Hospital A estÃ£o a ser testados 
+31	30	Chegou ao Hospital B
+31	30	Entrou na fila do Hospital B 
+31	30	Entrou no Hospital B 
+32	4	Negativo para COVID. Reencaminhado para casa. 
+32	8	Negativo para COVID. Reencaminhado para casa. 
+32	17	O paciente saiu do Hospital A 
+32	31	[Prioridade Baixa] Chegou ao Hospital C
+32	31	[Prioridade Baixa] Entrou na fila do Hospital C 
+32	31	[Prioridade Baixa] Entrou no Hospital C 
+33	14	O paciente saiu do Hospital A 
+33	9	O paciente saiu do Hospital A 
+33	32	Chegou ao Hospital A
+33	32	Entrou na fila do Hospital A 
+36	5	Positivo para COVID. Foi Internado 
+36	33	Chegou ao Hospital A
+36	33	Entrou na fila do Hospital A 
+36	34	Chegou ao Hospital B
+36	34	Entrou na fila do Hospital B 
+36	34	Entrou no Hospital B 
+36	35	[Prioridade Alta] Chegou ao Hospital C
+36	35	[Prioridade Alta] Entrou na fila do Hospital C 
+36	35	[Prioridade Alta] Entrou no Hospital C 
+37	1	Negativo para COVID. Reencaminhado para casa. 
+37	11	Positivo para COVID. Foi Internado 
+37	16	Negativo para COVID. Reencaminhado para casa. 
+37	36	Chegou ao Hospital B
+37	36	Entrou na fila do Hospital B 
+37	36	Entrou no Hospital B 
+38	15	Negativo para COVID. Reencaminhado para casa. 
+38	18	Positivo para COVID. Foi Internado 
+38	7	Negativo para COVID. Reencaminhado para casa. 
+38	37	Chegou ao Hospital B
+38	37	Entrou na fila do Hospital B 
+38	38	[Prioridade Baixa] Chegou ao Hospital C
+38	38	[Prioridade Baixa] Entrou na fila do Hospital C 
+38	38	[Prioridade Baixa] Entrou no Hospital C 
+38	37	Entrou no Hospital B 
+38	-	Os pacientes do Hospital B estão a ser testados 
+39	12	Negativo para COVID. Reencaminhado para casa. 
+39	10	Negativo para COVID. Reencaminhado para casa. 
+40	39	[Prioridade Baixa] Chegou ao Hospital C
+40	39	[Prioridade Baixa] Entrou na fila do Hospital C 
+40	39	[Prioridade Baixa] Entrou no Hospital C 
+40	-	Os pacientes do Hospital C estão a ser testados 
+41	19	Positivo para COVID. Foi Internado 
+41	13	Negativo para COVID. Reencaminhado para casa. 
+41	22	Positivo para COVID. Foi Internado 
+41	-	Os pacientes do Hospital A foram testados 
+41	23	Saiu do Hospital A 
+41	26	Saiu do Hospital A 
+41	25	Saiu do Hospital A 
+41	28	Saiu do Hospital A 
+41	27	Saiu do Hospital A 
+41	32	Entrou no Hospital A 
+41	33	Entrou no Hospital A 
+42	17	Negativo para COVID. Reencaminhado para casa. 
+42	26	O paciente saiu do Hospital A 
+43	9	Positivo para COVID. Foi Internado 
+43	14	Negativo para COVID. Reencaminhado para casa. 
+43	40	[Prioridade Alta] Chegou ao Hospital C
+43	40	[Prioridade Alta] Entrou na fila do Hospital C 
+43	40	[Prioridade Alta] Entrou no Hospital C 
+44	28	O paciente saiu do Hospital A 
+45	23	O paciente saiu do Hospital A 
+45	25	O paciente saiu do Hospital A 
+45	27	O paciente saiu do Hospital A 
+45	41	Chegou ao Hospital A
+45	41	Entrou na fila do Hospital A 
+45	41	Entrou no Hospital A 
